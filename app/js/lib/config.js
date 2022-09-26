@@ -18,8 +18,8 @@ Config = window.Config || {}
 */
 
 Config.App = {
-  id: 139985,
-  hash: '577aea0cc63cc165a5963450f6196816',
+  id: 13205116,
+  hash: 'b2dfe71b80d0b382d32c360ea6adfa30',
   version: '0.7.0',
   domains: ['web.telegram.org', 'zhukov.github.io', 'telegram.doge.me']
 }
